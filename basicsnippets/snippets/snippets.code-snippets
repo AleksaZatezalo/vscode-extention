@@ -1,1 +1,16 @@
-{}
+{
+    "Basic HTML Table": {
+        "prefix": "!bhtmltable",
+        "body": [
+            "<table>",
+            "<tr>",
+            "<td>Apple</td>",
+            "<td>Grape</td>",
+            "<td>Orange</td>",
+            "</tr>",
+            "</table>"
+        ],
+        "description": "Basic HTML Table"
+
+    }
+}

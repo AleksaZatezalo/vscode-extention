@@ -1,0 +1,20 @@
+{
+  "name": "nasicsnippets",
+  "displayName": "basic snippets",
+  "description": "A collection of diffrent html snippets",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
